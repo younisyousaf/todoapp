@@ -14,19 +14,10 @@ To get started with ToDo Basic, follow these simple steps:
 
 1. **Installation**: Clone this repository to your local machine.
 
-2. **Dependencies**: Make sure you have all the necessary dependencies installed. You can find them in the `requirements.txt` file.
-
-3. **Run the App**: Use the command `python app.py` to start the ToDo Basic App.
-
+2. **Dependencies**: Make sure you have all the necessary dependencies installed.
+   
 4. **Usage**: Explore the app's features, add tasks, and delete them as needed.
 
-## Contributing
-
-We welcome contributions from the community. Whether it's fixing a bug, improving documentation, or adding new features, your help is appreciated. Please follow our [contributing guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
